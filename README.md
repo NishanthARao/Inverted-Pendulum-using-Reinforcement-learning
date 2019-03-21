@@ -13,6 +13,8 @@ You can find openAI's GYM implementation on the same here:
 2) https://gym.openai.com/envs/CartPole-v0/
 
 
+
+
 Download all the files into the same folder say "XYZ".
 
 Extract the files present in the "NecessaryFiles.zip" to "XYZ". This is important as all the cart-pole animation is present here.
