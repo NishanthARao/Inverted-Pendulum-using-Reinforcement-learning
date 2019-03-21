@@ -5,8 +5,6 @@ This is an implementation of the paper - "Neuronlike adaptive elements that can 
 
 http://www.derongliu.org/adp/adp-cdrom/Barto1983.pdf
 
-The entire project is based on this paper. Some references for building the MATLAB code has been adapted from here:
-https://github.com/david78k/pendulum/blob/master/c/anderson/pole.c
 
 Download all the files into the same folder say "XYZ".
 
